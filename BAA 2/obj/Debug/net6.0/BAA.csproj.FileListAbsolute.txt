@@ -1,0 +1,30 @@
+/Users/a1/Desktop/HW/BAA/bin/Debug/net6.0/BAA
+/Users/a1/Desktop/HW/BAA/bin/Debug/net6.0/BAA.deps.json
+/Users/a1/Desktop/HW/BAA/bin/Debug/net6.0/BAA.runtimeconfig.json
+/Users/a1/Desktop/HW/BAA/bin/Debug/net6.0/BAA.dll
+/Users/a1/Desktop/HW/BAA/bin/Debug/net6.0/BAA.pdb
+/Users/a1/Desktop/HW/BAA/obj/Debug/net6.0/BAA.csproj.AssemblyReference.cache
+/Users/a1/Desktop/HW/BAA/obj/Debug/net6.0/BAA.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a1/Desktop/HW/BAA/obj/Debug/net6.0/BAA.AssemblyInfoInputs.cache
+/Users/a1/Desktop/HW/BAA/obj/Debug/net6.0/BAA.AssemblyInfo.cs
+/Users/a1/Desktop/HW/BAA/obj/Debug/net6.0/BAA.csproj.CoreCompileInputs.cache
+/Users/a1/Desktop/HW/BAA/obj/Debug/net6.0/BAA.dll
+/Users/a1/Desktop/HW/BAA/obj/Debug/net6.0/refint/BAA.dll
+/Users/a1/Desktop/HW/BAA/obj/Debug/net6.0/BAA.pdb
+/Users/a1/Desktop/HW/BAA/obj/Debug/net6.0/BAA.genruntimeconfig.cache
+/Users/a1/Desktop/HW/BAA/obj/Debug/net6.0/ref/BAA.dll
+/Users/a1/Desktop/HW/BAA 2/bin/Debug/net6.0/BAA
+/Users/a1/Desktop/HW/BAA 2/bin/Debug/net6.0/BAA.deps.json
+/Users/a1/Desktop/HW/BAA 2/bin/Debug/net6.0/BAA.runtimeconfig.json
+/Users/a1/Desktop/HW/BAA 2/bin/Debug/net6.0/BAA.dll
+/Users/a1/Desktop/HW/BAA 2/bin/Debug/net6.0/BAA.pdb
+/Users/a1/Desktop/HW/BAA 2/obj/Debug/net6.0/BAA.csproj.AssemblyReference.cache
+/Users/a1/Desktop/HW/BAA 2/obj/Debug/net6.0/BAA.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a1/Desktop/HW/BAA 2/obj/Debug/net6.0/BAA.AssemblyInfoInputs.cache
+/Users/a1/Desktop/HW/BAA 2/obj/Debug/net6.0/BAA.AssemblyInfo.cs
+/Users/a1/Desktop/HW/BAA 2/obj/Debug/net6.0/BAA.csproj.CoreCompileInputs.cache
+/Users/a1/Desktop/HW/BAA 2/obj/Debug/net6.0/BAA.dll
+/Users/a1/Desktop/HW/BAA 2/obj/Debug/net6.0/refint/BAA.dll
+/Users/a1/Desktop/HW/BAA 2/obj/Debug/net6.0/BAA.pdb
+/Users/a1/Desktop/HW/BAA 2/obj/Debug/net6.0/BAA.genruntimeconfig.cache
+/Users/a1/Desktop/HW/BAA 2/obj/Debug/net6.0/ref/BAA.dll
