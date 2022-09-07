@@ -24,4 +24,4 @@ Console.WriteLine("Введите координату точки B по Z");
 int zb = Convert.ToInt32(Console.ReadLine());
 
 double res = Math.Sqrt(Math.Pow(xb - xa, 2) + Math.Pow(yb - ya, 2) + Math.Pow(zb - za, 2));
-Console.WriteLine(res);
+Console.WriteLine($"{res:f2}");
