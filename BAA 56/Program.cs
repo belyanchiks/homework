@@ -70,4 +70,4 @@ Console.WriteLine("Ваш массив:");
 GetMatrix(matrix);
 PrintMatrix(matrix);
 int minSumRow = MinSumRowMatrix(matrix);
-Console.WriteLine($"Номер строки с наименьшей суммой элементов: {minSumRow + 1}");
+Console.WriteLine($"Номер строки с наименьшей суммой элементов: {minSumRow}");
